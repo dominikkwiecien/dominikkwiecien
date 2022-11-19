@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dominikkwiecien
 - 👀 I’m interested in astronomy and football;
-- 🌱 I’m currently learning JS, HTML and CSS;
+- 🌱 I’m currently learning React;
 - 💞️ I’m looking to collaborate on creating websites.
 - 📫 How to reach me: email = dominik.kwiecien4@gmail.com;
 
