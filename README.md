@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dominikkwiecien
 - 👀 I’m interested in astronomy and football;
-- 🌱 I’m currently learning React;
-- 💞️ I’m looking to collaborate on creating websites.
 - 📫 How to reach me: email = dominik.kwiecien4@gmail.com;
 
 <!---
@@ -23,7 +21,7 @@ I am a Data Analyst with a strong passion for uncovering hidden patterns and ins
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> SQL
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> Excel
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" /> Tableau
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/tableau-software.png" /> Tableau
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> Power BI
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
 
@@ -39,3 +37,4 @@ I am a Data Analyst with a strong passion for uncovering hidden patterns and ins
 ### 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/dominik-kwiecien-profile)
+dominik.kwiecien4@gmail.com
