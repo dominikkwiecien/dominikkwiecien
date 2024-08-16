@@ -23,8 +23,8 @@ I am a Data Analyst with a strong passion for uncovering hidden patterns and ins
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> SQL
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> Excel
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" /> Tableau
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" /> Power BI
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" /> Tableau
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> Power BI
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
 
 #
