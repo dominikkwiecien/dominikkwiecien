@@ -15,7 +15,7 @@ Feel free to contact me at: dominik.kwiecien4@gmail.com.
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> Numpy  
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> SQL  
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> Excel  
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bDVfoQMcUujmfsEiuGWOgnVf_O6AIuw_8w&s" /> Excel  
 <img align="left" alt="Amplitude" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/723/1018/png-transparent-amplitude-analytics-data-mobile-web-analytics-web-development-miscellaneous-blue-text.png" /> Amplitude
 <img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> BigQuery
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/tableau-software.png" /> Tableau
